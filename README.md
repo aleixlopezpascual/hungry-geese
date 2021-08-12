@@ -1,7 +1,7 @@
 # osic-pulmonary-fibrosis-progression
 Kaggle competition 2021-07
 
-https://www.kaggle.com/c/riiid-test-answer-prediction
+https://www.kaggle.com/c/hungry-geese/overview
 
 ## Overview
 Think back to your favorite teacher. They motivated and inspired you to learn. And they knew your strengths and weaknesses. The lessons they taught were based on your ability. For example, teachers would make sure you understood algebra before advancing to calculus. Yet, many students don’t have access to personalized learning. In a world full of information, data scientists like you can help. Machine learning can offer a path to success for young people around the world, and you are invited to be part of this mission.
