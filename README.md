@@ -1,4 +1,4 @@
-# osic-pulmonary-fibrosis-progression
+# hungry-geese
 Kaggle competition 2021-07
 
 https://www.kaggle.com/c/hungry-geese/overview
